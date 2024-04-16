@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\Kondratev_tomogram_visualizer.exe.config
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\Kondratev_tomogram_visualizer.exe
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\Kondratev_tomogram_visualizer.pdb
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.dll.config
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.Form1.resources
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.Properties.Resources.resources
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.csproj.CopyComplete
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.exe
+C:\Users\user\source\repos\Kondratev_tomogram_visualizer\Kondratev_tomogram_visualizer\obj\Debug\Kondratev_tomogram_visualizer.pdb
